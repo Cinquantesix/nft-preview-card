@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [solution](https://gorgeous-cascaron-9b29a0.netlify.app/)
-- Live Site URL: [live site](https://github.com/Cinquantesix/nft-preview-card)
+- Solution URL: [solution](https://github.com/Cinquantesix/nft-preview-card)
+- Live Site URL: [live site](https://gorgeous-cascaron-9b29a0.netlify.app/)
 
 ## My process
 
