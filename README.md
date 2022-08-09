@@ -31,7 +31,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [solution](https://fascinating-pithivier-e9eb37.netlify.app/)
+- Solution URL: [solution](https://gorgeous-cascaron-9b29a0.netlify.app/)
 - Live Site URL: [live site](https://github.com/Cinquantesix/nft-preview-card)
 
 ## My process
