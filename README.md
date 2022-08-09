@@ -27,22 +27,29 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./screenshot.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [solution](https://fascinating-pithivier-e9eb37.netlify.app/)
+- Live Site URL: [live site](https://github.com/Cinquantesix/nft-preview-card)
 
 ## My process
 
 My objectif (before the start)
 
 I would like to try to:
+
 - Have a better way to use scss features
 - Add BEM classes to my html
 
 I'll also try to to the challenge in less than 2 hours.
+
+(after end)
+
+- The development took me 3h
+- I had some trouble between grid and flex for some content placement
+- I tried to have more reflection before beginning to be sure to develop the better solution. I think it was what I didn't have for last projects and I really underestimated the step.
 
 ### Built with
 
@@ -53,11 +60,11 @@ I'll also try to to the challenge in less than 2 hours.
 
 ### What I learned
 
-
+I learn a lot in BEM and SCSS variable. Also some tricks in Grid and 
 
 ### Continued development
 
-
+I will try to add more variables and automatism fot SCSS to be sure to have less repetition. For BEM, I think I need to have ve more specific with the words a choose for my classes. 
 
 ### Useful resources
 
@@ -70,6 +77,4 @@ I'll also try to to the challenge in less than 2 hours.
 
 ## Acknowledgments
 
-This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else's solution. This is the perfect place to give them some credit.
-
-**Note: Delete this note and edit this section's content as necessary. If you completed this challenge by yourself, feel free to delete this section entirely.**
+Again, thanks [@gmagnenat](https://www.frontendmentor.io/profile/gmagnenat) for his help and good advice.
